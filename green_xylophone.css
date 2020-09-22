@@ -9,7 +9,7 @@ body{
     -o-background-size: cover;
     background-size: cover;
     position:relative;
-    padding-bottom:10px;
+    
 
 
   }
@@ -17,7 +17,7 @@ body{
   #title{
     margin:auto;
     margin-top:2%;
-    width:40%;
+    width:50%;
     border-bottom: solid rgb(22,204,0)2px;
     font-size:70px;
     text-align: center;
@@ -166,7 +166,7 @@ body{
   }
 
   .MI{
-    margin-top:7.5px;
+    margin-top:10px;
     height:270px;
     color: #FFF;
     font-size: 25px;
@@ -180,7 +180,7 @@ body{
   }
 
   .FA{
-    margin-top:10px;
+    margin-top:15px;
     height:260px;
     color: #FFF;
     font-size: 25px;
@@ -193,7 +193,7 @@ body{
   }
 
   .SO{
-    margin-top:12.5px;
+    margin-top:20px;
     height:250px;
     color: #FFF;
     font-size: 25px;
@@ -207,7 +207,7 @@ body{
 
 
   .LA{
-    margin-top:15px;
+    margin-top:25px;
     height:240px;
     color: #FFF;
     font-size: 25px;
@@ -221,7 +221,7 @@ body{
 
 
   .TI{
-    margin-top:17.5px;
+    margin-top:30px;
     height:230px;
     color: #FFF;
     font-size: 25px;
